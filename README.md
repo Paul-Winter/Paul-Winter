@@ -19,10 +19,10 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Back-End Developer
 - :telescope: I’m working as a Software Engineer and contributing to back-end for building web and desktop applications.
 - :seedling: Exploring Computer Science.
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-zimin-557480172) [![Habr Career Badge](https://img.shields.io/badge/-Habr_Career-teal?style=flat&logo=Habr&logoColor=white)](https://career.habr.com/paul-zimin)
+- :mailbox: How to reach me: <zimin.pavel.v@gmail.com>
 
 ---
 
