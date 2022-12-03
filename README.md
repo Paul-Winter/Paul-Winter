@@ -52,7 +52,7 @@ I am a Back-End Developer
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paul-Winter&theme=dark&background=000000&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Winter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Winter&layout=compact&theme=vision-friendly-dark&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋
@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
+More information:
 https://www.sitepoint.com/github-profile-readme
 https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
 -->
