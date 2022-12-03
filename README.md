@@ -19,10 +19,10 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Back-End Developer
-- :telescope: I’m working as a Software Engineer and contributing to back-end for building web and desktop applications.
-- :seedling: Exploring Computer Science.
-- :mailbox: How to reach me: <zimin.pavel.v@gmail.com>
+  I am a Back-End Developer
+- I’m working as a Software Engineer and contributing to back-end for building web and desktop applications.
+- Exploring Computer Science.
+- How to reach me: <zimin.pavel.v@gmail.com>
 
 ---
 
