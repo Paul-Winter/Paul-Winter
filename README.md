@@ -1,12 +1,5 @@
 <div id="header" align="center">
-  <!--img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" height="220"/-->
-  <!--img src="https://media.giphy.com/media/kVo6B4M27wSttWqqdM/giphy.gif" width="460"/-->
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
-  <!--img src="https://media.giphy.com/media/ltyGw5fmC0b6SW03w6/giphy.gif" width="180"/-->
-  <!--img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/-->
-  <!--img src="https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif" width="200"/-->
-  <!--img src="https://media.giphy.com/media/ESVq9aLP2tUv3DxAwU/giphy.gif" width="140"/-->
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/pavel-zimin-557480172">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,9 +16,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Hi there!
   </h1>
-  <div align="center">
-    <!--img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/-->
-  </div>
 </div>
 
 ### :man_technologist: About Me :
@@ -66,9 +56,7 @@ I am a Back-End Developer
 
 ---
 
-<!--img src="https://media.giphy.com/media/raGZ0thWzeQKzZ8WDA/giphy.gif" width="140"/-->  
 <h3>¯\_(ツ)_/¯  It Works on My Machine :</h3>
-
 
 
 
