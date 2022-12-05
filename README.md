@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <!--img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" height="220"/-->
   <!--img src="https://media.giphy.com/media/kVo6B4M27wSttWqqdM/giphy.gif" width="460"/-->
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
   <!--img src="https://media.giphy.com/media/ltyGw5fmC0b6SW03w6/giphy.gif" width="180"/-->
   <!--img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/-->
   <!--img src="https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif" width="200"/-->
@@ -25,7 +25,6 @@
   </h1>
   <div align="center">
     <!--img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/-->
-    <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="600" height="300"/>    
   </div>
 </div>
 
