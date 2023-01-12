@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/pavel-zimin-557480172">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://ru.stackoverflow.com/users/407134/paul-winter">
+    <a href="https://stackoverflow.com/users/20338752/paul-winter">
       <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
     </a>
     <a href="https://career.habr.com/paul-zimin">
@@ -50,8 +50,9 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paul-Winter&theme=dark&background=000000&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Winter&layout=compact&theme=vision-friendly-dark&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ---
 
