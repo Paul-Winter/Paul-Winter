@@ -52,7 +52,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Paul-Winter&theme=dark&background=000000&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Winter&layout=compact&theme=vision-friendly-dark&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Winter&layout=compact&theme=vision-friendly-dark&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Winter&theme=vision-friendly-dark&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <h3>¯\_(ツ)_/¯  It Works on My Machine :</h3>
