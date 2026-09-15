@@ -64,9 +64,9 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Winter&layout=compact&theme=vision-friendly-dark&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)--?
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Winter&theme=vision-friendly-dark&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)-->
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Winter&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paul-Winter&theme=dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paul-Winter&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paul-Winter&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Winter&theme=dark&hide_border=true" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paul-Winter&theme=dark" />
   <!--img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paul-Winter&theme=holi" /-->
   <!--img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Paul-Winter&theme=holi&utcOffset=0" /-->
