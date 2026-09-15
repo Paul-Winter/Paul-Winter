@@ -69,7 +69,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paul-Winter&theme=holi" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paul-Winter&theme=holi" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paul-Winter&theme=holi" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Winter&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Winter&theme=holi" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Paul-Winter&theme=holi&utcOffset=0" />
 </div>
 
