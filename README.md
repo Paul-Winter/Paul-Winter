@@ -26,9 +26,8 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+  <!--img src="https://github.com/Rminsh/Ubuntu_touch_iconPack/blob/master/preview/icon_default.png" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;--> 
 <div>
-  <!--img src="https://github.com/Rminsh/Ubuntu_touch_iconPack/blob/master/preview/icon_default.png" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;-->
- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix Framework" alt="Phoenix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;   
@@ -64,9 +63,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
-  
-  
-</div>
+  </div>
 
 ---
 
