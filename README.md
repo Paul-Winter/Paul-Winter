@@ -25,7 +25,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and OS :
+### :hammer_and_wrench: Languages and Operation Systems :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;   
   <!--img src="https://github.com/Rminsh/Ubuntu_touch_iconPack/blob/master/preview/icon_default.png" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;--> 
@@ -57,7 +57,7 @@
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;  
 </div>
 
-### :hammer_and_wrench: Tools and DB :
+### :hammer_and_wrench: Tools and Data Bases :
 <div>    
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
