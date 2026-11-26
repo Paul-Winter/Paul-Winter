@@ -44,9 +44,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :hammer_and_wrench: Mobile and Web:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix Framework" alt="Phoenix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
@@ -59,9 +56,6 @@
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;  
 </div>
 
----
-  
-### :hammer_and_wrench: Tools :
 <div>    
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
